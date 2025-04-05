@@ -1,0 +1,7 @@
+id,nome,departamento,salario,remoto,tempo_empresa
+1,Ana,TI,4500,Sim,2
+2,Bruno,RH,5200,Não,5
+3,Carlos,Financeiro,6100,Sim,3
+4,Diana,TI,4700,Não,1
+5,Eduardo,Marketing,5800,Sim,4
+6,Fernanda,Financeiro,4900,Não,2
