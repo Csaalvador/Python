@@ -1,0 +1,11 @@
+nome,idade,salario,departamento,tempo_empresa,tipo_contrato
+Ana,25,3500,RH,2,CLT
+Bruno,32,4200,TI,5,PJ
+Carlos,45,5100,TI,10,CLT
+Daniela,28,3900,Marketing,3,CLT
+Eduardo,35,4800,RH,6,PJ
+Fernanda,30,4000,Marketing,4,CLT
+Gustavo,40,4700,TI,8,PJ
+Helena,22,3000,RH,1,CLT
+Igor,38,4500,TI,7,PJ
+Juliana,27,3600,Marketing,2,CLT
